@@ -1,5 +1,5 @@
 ## CS172 Introduction To Information Retrieval @UCRiverside - Spring 2019
-#### This is a group project of a undergrad course at University of California, Riverside.
+#### This is a group project of CS172 at University of California, Riverside.
 #### Group member: Yi-Ling Lin(@yiling654183lin), Hsin-Ta Li(@hsintali)
 
 Instructions on how to deploy the system. 
@@ -9,3 +9,5 @@ Instructions on how to deploy the system.
 4. The webpage will jump to “index.php” and display the returned result. 
 5. If there exist the “Location” button. Click on it will show the map and center the location of the tweet.
 6. In map page, click previous page to go back to the result page.
+
+![](https://github.com/hsintali/Spring2019-IR-Proj/blob/master/demo.jpg)
